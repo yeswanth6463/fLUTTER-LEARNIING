@@ -18,4 +18,7 @@ void main() {
 
   print(isStudent && isAdult);
   print(isStudent || isAdult);
+  print(!isStudent);
+  
+
 }
